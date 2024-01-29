@@ -1,6 +1,8 @@
 # genai-demo
 Adapting Q&A LLM using Lang Chain to our PDF data 
 
+![Architecture](./src/genai.png)
+
 Requirements:
     1.	User-managed Notebook
         a.	PyTorch 2.0 (with Intel® MKL-DNN/MKL)
